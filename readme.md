@@ -12,8 +12,8 @@ You can read the DEMs into MATLAB using TopoToolbox and the function
 
 Recent examples are
 
-'taiwan': SRTM-3 (90 m) DEM of entire Taiwan (~37 MB)
+`'taiwan'`: SRTM-3 (90 m) DEM of entire Taiwan (~37 MB)
 
-'tibet': SRTM-3 (90 m) of the Tibetan plateau with internal drainages (~9 MB)
+`'tibet'`: SRTM-3 (90 m) of the Tibetan plateau with internal drainages (~9 MB)
 
 
