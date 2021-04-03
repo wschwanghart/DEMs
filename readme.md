@@ -12,6 +12,10 @@ You can read the DEMs into MATLAB using TopoToolbox and the function
 
 Recent examples are
 
+`'kunashiri'` -- SRTM-1 (30 m) DEM of northern Kunashiri Island (~7 MB). This is an example for a DEM with a geographic coordinate system. 
+
+`'perfectworld'` -- Simulated DEM using TTLEM (~8 MB)
+
 `'taalvolcano'` -- SRTM-1 (30 m) DEM of Taal Volcano (~10 MB)
 
 `'taiwan'` -- SRTM-3 (90 m) DEM of entire Taiwan (~37 MB)
