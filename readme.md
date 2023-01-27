@@ -22,4 +22,6 @@ Recent examples are
 
 `'tibet'` -- SRTM-3 (90 m) of the Tibetan plateau with internal drainages (~9 MB)
 
+`'kedarnath'` -- HMA 8 m DEM of Kedarnath with lots of voids (~ 9 MB)
+
 
