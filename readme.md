@@ -12,6 +12,8 @@ You can read the DEMs into MATLAB using TopoToolbox and the function
 
 Recent examples are
 
+`'greenriver'` -- Speed, C. (2020). Interpreting Fluvial Processes from Channel-Belt Deposits, Utah 2018. National Center for Airborne Laser Mapping (NCALM). Distributed by OpenTopography. https://doi.org/10.5069/G9J964J3.. Accessed 2025-08-14.
+
 `'kunashiri'` -- SRTM-1 (30 m) DEM of northern Kunashiri Island (~7 MB). This is an example for a DEM with a geographic coordinate system. 
 
 `'perfectworld'` -- Simulated DEM using TTLEM (~8 MB)
